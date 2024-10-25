@@ -1,5 +1,12 @@
+!--
+> _Fork_ deze deeltaak en ga aan de slag. 
+Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
+De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+-->
 # Schets je ontwikkeling - Semester 3
 > Maak een praatplaat over jouw ontwikkeling als frontender
+
+
 
 ## Cruising to a job as frontender
 <img width="1105" alt="Scherm­afbeelding 2024-10-25 om 19 21 19" src="https://github.com/user-attachments/assets/e1f72d94-b092-4f88-9e09-34506e7a0444">
