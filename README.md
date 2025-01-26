@@ -23,3 +23,9 @@ Dit is mijn uiteindelijke ontwerp geworden, ik heb gekeken naar wat ik heb gemaa
 > Cruising to a job as frontender
 > 
 <img width="580" alt="Scherm­afbeelding 2024-10-25 om 19 21 19" src="https://github.com/user-attachments/assets/e1f72d94-b092-4f88-9e09-34506e7a0444">
+
+### Part two Semester 3
+Ik heb een nieuwe praatplaat gemaakt, een zoom in op de reis van "Cruising to a job as frontender" "2". Ik zoom daarbij in op de reis en zo zie je waar ik tegen aanliep, wat mijn valkuilen zijn. Maar ook van wat ik dacht een obstakel zou zijn, dat ik daar uiteindelijk langs ging en het wel mee viel.
+
+![image](https://github.com/user-attachments/assets/7da89b55-ca51-4c75-8c21-2ae190457265)
+
